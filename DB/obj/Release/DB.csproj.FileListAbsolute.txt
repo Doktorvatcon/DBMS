@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\DB\DB\bin\Release\DB.exe.config
+C:\Users\admin\source\repos\DB\DB\bin\Release\DB.exe
+C:\Users\admin\source\repos\DB\DB\bin\Release\DB.pdb
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.Form.resources
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.Properties.Resources.resources
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.exe
+C:\Users\admin\source\repos\DB\DB\obj\Release\DB.pdb
